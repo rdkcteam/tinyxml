@@ -1,5 +1,5 @@
-# tinyxml
-TinyXML-2
+
+TinyXML
 =========
 
 [![TravisCI Status](https://travis-ci.org/leethomason/tinyxml2.svg?branch=master)](https://travis-ci.org/leethomason/tinyxml2) [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/github/leethomason/tinyxml2?branch=master&svg=true)](https://ci.appveyor.com/project/leethomason/tinyxml2)
